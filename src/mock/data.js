@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Emese Kiss',
-  subtitle: "I'm an UpLeveled student.🚀",
+  subtitle: "I'm an UpLeveled student. 🚀",
   cta: '',
 };
 
@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'portrait.jpg',
   paragraphOne:
-    'Born and raised in Budapest, Hungary. Spent 4 years in Bristol, UK. Social Work background. Womankind volunteer. New to coding. Being trained by UpLeveled.  Keen to learn and work on awsome projects.',
+    'Born and raised in Budapest, Hungary. Spent 4 years in Bristol, UK. Social Work background. Womankind volunteer. New to coding. Being trained by UpLeveled.  Keen to learn and work on awesome projects.',
 
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
